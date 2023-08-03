@@ -12,6 +12,8 @@ To throw a grenade press the Q key
 
 *The project may open on a blank screen initially, You have to go to the right screen to see the game (Under the assets folder there is a screens folder, inside it is the sampleScene screen)
 
+https://clipchamp.com/watch/nAQsKsOewGJ
+
 ![image](https://github.com/noykorleker/shootingGame/assets/62388878/9bfa00d2-7491-47b4-88f4-111ec7c665a9)
 
 ![image](https://github.com/noykorleker/shootingGame/assets/62388878/ae1486cb-155b-4d8d-b913-6314d82ce221)
