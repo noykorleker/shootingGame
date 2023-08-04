@@ -1,3 +1,5 @@
+![Screenshot 2023-08-04 094755](https://github.com/noykorleker/shootingGame/assets/62388878/67b16f15-0958-484b-8300-6405750a61ac)
+![Screenshot 2023-08-04 095005](https://github.com/noykorleker/shootingGame/assets/62388878/3f434d1d-575a-471a-bc4b-e2b765b91487)
 # shootingGame
 A shooting game between two teams takes place in a house with obstacles and hiding places. Each team consists of two fighters, with one of the fighters being the human player on one of the teams.
 
@@ -12,14 +14,13 @@ To throw a grenade press the Q key
 
 The project may open on a blank screen initially, You have to go to the right screen to see the game (Under the assets folder there is a screens folder, inside it is the sampleScene screen)
 
+![Screenshot 2023-08-04 094608](https://github.com/noykorleker/shootingGame/assets/62388878/11256a82-4ca5-4d22-9811-152d4167cb82)
 
-![image](https://github.com/noykorleker/shootingGame/assets/62388878/9bfa00d2-7491-47b4-88f4-111ec7c665a9)
+![Screenshot 2023-08-04 094755](https://github.com/noykorleker/shootingGame/assets/62388878/6f55bc8e-0178-49d9-a8d3-c4044526d6f7)
 
-![image](https://github.com/noykorleker/shootingGame/assets/62388878/ae1486cb-155b-4d8d-b913-6314d82ce221)
+![Screenshot 2023-08-04 095005](https://github.com/noykorleker/shootingGame/assets/62388878/d399e8c3-fa1a-4be4-9807-65e966482e8c)
 
-![image](https://github.com/noykorleker/shootingGame/assets/62388878/72f4b93a-8415-4efe-9fb2-345e63547da6)
 
-![image](https://github.com/noykorleker/shootingGame/assets/62388878/960445bb-4bec-4736-9c26-58b4bdfe3e9b)
 
-![image](https://github.com/noykorleker/shootingGame/assets/62388878/95c7511e-2007-45a8-9d94-73c5ed0af9eb)
+
 
